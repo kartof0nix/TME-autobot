@@ -1,0 +1,5 @@
+Reference;Value;Footprint;Qty;Obudowa;Operating Voltage;Wartość;Tolerance;Uwagi;Link;Symbol;Cena 1 Sztuka;Unnamed: 12
+U1,U6,U7,U8,U9,U10,U11,U12,U13;IRF1405;Library:TO-220AB-3_Vertical;9;Library:TO-220AB-3_Vertical;25;IRF1405;5%;;https://www.tme.eu/pl/details/irf1405pbf/;IRF1405PBF;11,5128;0
+U14;IR2110S;Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm;1;Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm;25;IR2110S;5%;;;;;0
+U3,U4,U5;BCP56;Package_TO_SOT_SMD:SOT-223-3_TabPin2;3;Package_TO_SOT_SMD:SOT-223-3_TabPin2;25;BCP56;5%;;https://www.tme.eu/pl/details/bcp56tf/;BCP56TF;0,69;0
+D3,D4,D5;1N4148W;Diode_SMD:D_SOD-123;3;Diode_SMD:D_SOD-123;25;1N4148W;5%;;https://www.tme.eu/pl/details/1n4148w-cdi/;1N4148W-CDI;0,21059999999999998;0

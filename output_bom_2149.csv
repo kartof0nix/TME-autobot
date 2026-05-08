@@ -1,0 +1,8 @@
+Reference;Value;Footprint;Qty;Obudowa;Operating Voltage;Wartość;Tolerance;Uwagi;Link;Symbol;Cena 1 Sztuka;Unnamed: 12
+J3;JB+;Connector_Samtec_HPM_THT:Samtec_HPM-02-05-x-S_Straight_1x02_Pitch5.08mm;;;;;;;;;;0,0
+J4,J6,J8,J9;Screw_Terminal_01x02;Connector_Samtec_HPM_THT:Samtec_HPM-02-05-x-S_Straight_1x02_Pitch5.08mm;;;;;;;;;;0,0
+J5;JM1;Connector_Samtec_HPM_THT:Samtec_HPM-02-05-x-S_Straight_1x02_Pitch5.08mm;;;;;;;;;;0,0
+J7;JM2;Connector_Samtec_HPM_THT:Samtec_HPM-02-05-x-S_Straight_1x02_Pitch5.08mm;;;;;;;;;;
+J10;JB-;Connector_Samtec_HPM_THT:Samtec_HPM-02-05-x-S_Straight_1x02_Pitch5.08mm;;;;;;;;;;
+C24,C25,C26,C27;1200uF;Capacitor_THT:CP_Radial_D16.0mm_P7.50mm;;;;;;;;;;
+K1,K2,K3;2-1904025-3;PKM:RELAY_2-1904025-3;;;;;;;;;;

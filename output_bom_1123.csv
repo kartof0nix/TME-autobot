@@ -1,0 +1,6 @@
+Reference;Value;Footprint;Qty;Obudowa;Operating Voltage;Wartość;Tolerance;Uwagi;Link;Symbol;Cena 1 Sztuka;Unnamed: 12
+RV1,RV2,RV3;500k;Potentiometer_THT:Potentiometer_ACP_CA9-V10_Vertical;3;Potentiometer_THT:Potentiometer_ACP_CA9-V10_Vertical;25;500k;;;https://www.tme.eu/pl/details/rkt6h-500k/;RKT6H-500K;0,6974;0,0
+RVe1;20k;Potentiometer_THT:Potentiometer_Bourns_3296Y_Vertical;1;3296;25;20k;;;https://www.tme.eu/pl/details/pv36w203c01b00/;PV36W203C01B00;6,9003;0,0
+Q3,Q4;BCP53;Package_TO_SOT_SMD:SOT-223-3_TabPin2;2;Package_TO_SOT_SMD:SOT-223-3_TabPin2;25;BCP53;;;https://www.tme.eu/pl/details/bcp53-16-tp/;BCP53-16-TP;0,4699;0,0
+L1,L2;100uH;Inductor_SMD:L_12x12mm_H6mm;2;Inductor_SMD:L_12x12mm_H6mm;25;100uH;;;;;;
+C30,C31;22p;Capacitor_SMD:C_0805_2012Metric;2;805;25;22p;;;https://www.tme.eu/pl/details/cct-22p/50v/;CCT-22P/50V;0,40380000000000005;
